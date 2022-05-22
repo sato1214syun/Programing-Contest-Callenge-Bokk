@@ -1,5 +1,3 @@
 {
-    "cSpell.words": [
-        "becd"
-    ]
+    "python.formatting.provider": "black"
 }

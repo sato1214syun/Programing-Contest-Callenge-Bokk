@@ -7,11 +7,11 @@ authors = ["sato1214syun <sato1214syun@gmail.com>"]
 [tool.poetry.dependencies]
 python = ">=3.11, <3.12"
 networkx = "^2.8.8"
-matplotlib = "^3.6.2"
+matplotlib = "^3.7.1"
 
 [tool.poetry.group.dev.dependencies]
-notebook = "^6.5.2"
-pandas = "^1.5.2"
+notebook = "^6.5.4"
+pandas = "^1.5.3"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
